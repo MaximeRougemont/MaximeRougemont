@@ -10,7 +10,6 @@
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/maxime-damour-rougemont-398946395"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://instagram.com/_makimishu_"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 ### 💻 Languages
